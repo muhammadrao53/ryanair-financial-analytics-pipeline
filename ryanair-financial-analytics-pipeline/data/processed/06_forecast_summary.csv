@@ -1,0 +1,3 @@
+metric,model_r_squared,forecast_year,forecast_value
+Revenue (EUR M),0.931,2027,17131.0
+Stock Price (USD),0.778,2027,55.87

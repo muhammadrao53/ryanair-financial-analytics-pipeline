@@ -1,0 +1,6 @@
+fiscal_year,period_ending,net_income_eur_m,depreciation_amortization_eur_m,stock_based_compensation_eur_m,operating_cash_flow_eur_m,operating_cash_flow_growth_pct,capital_expenditures_eur_m,investing_cash_flow_eur_m,long_term_debt_repaid_eur_m,net_debt_issued_repaid_eur_m,repurchase_of_common_stock_eur_m,common_dividends_paid_eur_m,financing_cash_flow_eur_m,net_cash_flow_eur_m,free_cash_flow_eur_m,free_cash_flow_growth_pct,free_cash_flow_margin_pct
+FY2021,2021-03-31,-1015,571,3.6,-2448,,-294.7,937,-1027,1202,0,0,1623,84.3,-2743,,-167.67
+FY2022,2022-03-31,-240.8,719.4,8.6,1941,,-1182,-1414,-1775,-583.3,0,0,-536.5,18.3,758.9,,15.81
+FY2023,2023-03-31,1314,923.2,16.2,3891,100.52,-1915,-1901,-1086,-1086,0,0,-1054,930.3,1976,160.42,18.34
+FY2024,2024-03-31,1917,1060,-3.9,3158,-18.84,-2392,-1560,-1143,-1143,0,-199.5,-1326,276.1,766,-61.24,5.70
+FY2025,2025-03-31,1612,1214,12.8,3416,8.16,-1553,-1432,-86.4,-86.4,-1478,-437.7,-1997,-12.1,1863,143.24,13.36

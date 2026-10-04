@@ -1,0 +1,6 @@
+fiscal_year,period_ending,cash_and_equivalents_eur_m,short_term_investments_eur_m,cash_and_short_term_investments_eur_m,receivables_eur_m,inventory_eur_m,prepaid_expenses_eur_m,total_current_assets_eur_m,property_plant_equipment_eur_m,total_assets_eur_m,accounts_payable_eur_m,accrued_expenses_eur_m,current_portion_long_term_debt_eur_m,current_unearned_revenue_eur_m,total_current_liabilities_eur_m,long_term_debt_eur_m,total_liabilities_eur_m,common_stock_eur_m,retained_earnings_eur_m,shareholders_equity_eur_m,total_debt_eur_m,net_cash_debt_eur_m,book_value_per_share_eur,shares_outstanding_m
+FY2022,2022-03-31,2669,934.1,3603,43.5,4.3,401.1,5475,9229,15150,1029,1448,998.5,1554,5399,3715,9605,6.8,2881,5545,5077,-1474,4.89,1135
+FY2023,2023-03-31,3599,1056,4656,70,6,868.3,5911,10118,16406,1066,2017,826.7,2787,7422,2853,10763,6.9,4180,5643,4116,539.3,4.96,1139
+FY2024,2024-03-31,3875,237.8,4113,83.1,6.2,1269,5827,11014,17176,792.2,2375,50,2899,6401,2532,9561,6.9,5900,7614,2747,1366,6.68,1140
+FY2025,2025-03-31,3863,100.1,3963,78.3,4.6,1846,6010,11072,17507,702,2801,848.4,3432,8153,1685,10470,6.4,5589,7037,2683,1281,6.61,1064
+FY2026,2026-03-31,2733,812.4,3546,48.7,4.8,1981,7745,11521,19748,609.8,3083,1199,3420,8573,147.8,9646,6.3,6778,10101,1492,2054,9.68,1044
